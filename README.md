@@ -10,20 +10,25 @@ world news in a single image, for the
 
 ## What's inside
 
-- Masthead: "The World in One Day — Wednesday 25 November 2026" with a
-  computed story count (**36 stories**: 3 lead cards + 4 number tiles +
-  24 numbered stories + 5 side-box items)
-- Three lead stories (A trade/USA, B disaster/Egypt, C space/Pakistan–China)
-  with drawn visuals and per-card source lines
-- Black numbers strip: UK energy cap, Kospi, US inflation, and a
-  "Russian jets hit — CLAIM" tile, each with a grey source tag
-- Equirectangular world map (Natural Earth 110m land) with 24 numbered,
-  region-coloured story pins plus A/B/C lead pins
-- Three side boxes beside the map: Science · Space, Business, Culture · Media
-- Four region columns (Americas, Europe, Middle East & Africa, Asia-Pacific)
-  with per-region story counts in the headings
-- A red-bordered DATE CHECK box naming what was reported on the day, what
-  was left out as earlier news, and the REPORTED vs CLAIM legend
+- Thin navy top bar + heavy serif dateline "Wednesday 25 November 2026" with
+  an italic dek; story count is computed from the data (**44 stories**:
+  11 cards + 33 "also" items) and shown as "44 STORIES · 5 REGIONS"
+- Five region chips (Americas, Europe, Middle East & Africa, Asia-Pacific,
+  World & Space) with computed per-region counts
+- "The Day in Numbers" strip: eight big figures (tariff targets, Cairo dead,
+  UK energy cap, Kospi, US inflation, Bangladesh wage, cartel fines, Athens
+  marchers)
+- Three hero stories with ~100px drawn SVG scenes (US tariffs/ship, Cairo
+  tanker fire, Tiangong space dock), number badges, how-sure badges
+  (OFFICIAL / CONFIRMED / REPORTED / CLAIM) and source lines
+- Eight smaller illustrated cards (refinery, energy cap, Kospi chart, jet,
+  flags, garment factory, supermarket siege, controlled blast) in a 4×2 grid
+- Bottom band: a small equirectangular map (Natural Earth 110m land) with
+  region-coloured numbered pins for stories 1–11, a region legend with counts,
+  and a HOW SURE legend; beside it "Also on Wednesday — 33 more stories" in
+  two numbered columns
+- Red-bordered DATE CHECK box naming earlier news left out, a sources footer,
+  and the note that all drawings are original
 
 ## Rebuild
 
